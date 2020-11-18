@@ -55,11 +55,11 @@ Tier 10 - 5 pieces (ilvl 251)
 Icecrown Citadel (Vendor)
 ```
 
-**Withered Army Training Scenario**
+**Withered Army Training Scenario**<br/>
 <http://www.mmo-champion.com/threads/2064610-Withered-Army-Training?p=42226469&viewfull=1#post42226469>
 
-**Order Hall Champion stuff**
-(New Google Doc) <https://docs.google.com/spreadsheets/d/1eWRWdgQX0_bn3fRqrBwQvGsCUh9LMWOSD74KBzvjuaM/edit#gid=935577117>
+**Order Hall Champion stuff**<br/>
+(New Google Doc) <https://docs.google.com/spreadsheets/d/1eWRWdgQX0_bn3fRqrBwQvGsCUh9LMWOSD74KBzvjuaM/edit#gid=935577117><br/>
 (Old Reddit post) <https://www.reddit.com/r/wow/comments/519b0t/what_orderhall_champions_to_deactivate_all/d7a7a1z/>
 
 __**Hidden Hunter Quest - Trueshot Lodge**__
@@ -69,5 +69,5 @@ __**Hidden Hunter Quest - Trueshot Lodge**__
 4) Quest pops from *Dark Ranger Velonara*.
 5) Adds new item to his vendor window.
 
-**__World Boss Rotation__**
-**Legion**:  Nithogg >> Soultakers >> Humongris >> Shar'thos >> Flotsam >> Drugon >> Calamir >> Withered J'im >> Levantus >> Na'zak the Fiend >> Ana-Mouz
+**__World Boss Rotation__**<br/>
+Nithogg >> Soultakers >> Humongris >> Shar'thos >> Flotsam >> Drugon >> Calamir >> Withered J'im >> Levantus >> Na'zak the Fiend >> Ana-Mouz
