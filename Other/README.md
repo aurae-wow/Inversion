@@ -1,11 +1,11 @@
 # Useful Information
 This stuff doesn't belong to a specific expansion.
 
-**__Darkmoon Faire:  Blight Boar__**
-**Drummer**:  Avoid getting hit by any of the banshee waves, while still catching every bolt of light (Power Chord).
-**Bassist**:  Avoid getting hit by any of the banshee waves, but miss at least 1 of the bolts of light.
-**Vocals**:  Get hit by at least 2 banshee wave, while still catching every bolt of light.
-**Guitarist**:  Get hit by at least 2 banshee wave, and miss at least 2 bolts of light.
+**__Darkmoon Faire:  Blight Boar__**<br/>
+**Drummer**:  Avoid getting hit by any of the banshee waves, while still catching every bolt of light (Power Chord).<br/>
+**Bassist**:  Avoid getting hit by any of the banshee waves, but miss at least 1 of the bolts of light.<br/>
+**Vocals**:  Get hit by at least 2 banshee wave, while still catching every bolt of light.<br/>
+**Guitarist**:  Get hit by at least 2 banshee wave, and miss at least 2 bolts of light.<br/>
 
 **Miscellaneous macros using item slot numbers**
 
