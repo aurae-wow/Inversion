@@ -32,26 +32,26 @@ And another script for good measure.
 
 For everyone but DKs, DHs, and Monks - tier 1-10
 
-* Tier 1 - 8 pieces
-  Molten Core (waist and wrists come from trash mobs!)
-* Tier 2 - 8 pieces
-  Molten Core (legs), Black Wing Lair (head, shoulders, chest, legs, feet, waist, hands)
-* Tier 2.5 - 5 pieces
-  Temple of Ahn'Qiraj (AQ40) (quest rewards from dragons right after the first boss)
-* Tier 4 - 5 pieces
-  Karazhan (head, gloves), Gruul's Lair (shoulders, legs), Magtheridon's Lair (chest)
-* Tier 5 - 5 pieces
-  Tempest Keep (chest, shoulders), Serpentshrine Cavern(head, hands, legs)
-* Tier 6 - 8 pieces*?
-  Hyjal Summit (head, hands), Black Temple (legs, chest), Sunwell Plateau (wrist, waist, and feet)
-* Tier 7 - 5 pieces (ilvl 200)
-  Naxxramas 10-man (head, shoulders, chest, legs), Obsidian Sanctum 10-man (hands)
-* Tier 8 - 5 pieces (ilvl 219)
-  Ulduar 10-man
-* Tier 9 - 5 pieces (ilvl 232)
-  Crusaders' Coliseum (Vendor)
-* Tier 10 - 5 pieces (ilvl 251)
-  Icecrown Citadel (Vendor)
+Tier 1 - 8 pieces  
+Molten Core (waist and wrists come from trash mobs!)  
+Tier 2 - 8 pieces  
+Molten Core (legs), Black Wing Lair (head, shoulders, chest, legs, feet, waist, hands)  
+Tier 2.5 - 5 pieces  
+Temple of Ahn'Qiraj (AQ40) (quest rewards from dragons right after the first boss)  
+Tier 4 - 5 pieces  
+Karazhan (head, gloves), Gruul's Lair (shoulders, legs), Magtheridon's Lair (chest)  
+Tier 5 - 5 pieces  
+Tempest Keep (chest, shoulders), Serpentshrine Cavern(head, hands, legs)  
+Tier 6 - 8 pieces*?  
+Hyjal Summit (head, hands), Black Temple (legs, chest), Sunwell Plateau (wrist, waist, and feet)  
+Tier 7 - 5 pieces (ilvl 200)  
+Naxxramas 10-man (head, shoulders, chest, legs), Obsidian Sanctum 10-man (hands)  
+Tier 8 - 5 pieces (ilvl 219)  
+Ulduar 10-man  
+Tier 9 - 5 pieces (ilvl 232)  
+Crusaders' Coliseum (Vendor)  
+Tier 10 - 5 pieces (ilvl 251)  
+Icecrown Citadel (Vendor)  
 
 ---
 
