@@ -26,7 +26,7 @@ Trinket 2 with `@cursor`
 #showtooltip
 /use [@cursor]14
 ```
-<img src="/Inversion/Other/item-slots.png">
+<img src="item-slots.png">
 
 Macro for announcing to /1 your target, location, and target health percentage.  Great for rares.
 ```Lua
