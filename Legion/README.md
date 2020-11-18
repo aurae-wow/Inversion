@@ -1,6 +1,6 @@
 # Legion Resources
 
-**Hidden Artifact Appearance Additional Tints Progress Tracking**
+## Hidden Artifact Appearance Additional Tints Progress Tracking
 
 Run this script to check progress towards unlocking extra skins for your hidden artifact.
 ```Lua
@@ -22,10 +22,9 @@ And another script for good measure.
 /run local g,s,p,d=GetAchievementCriteriaInfo,select,print,0 for i=1,GetAchievementNumCriteria(11152) do d=d+s(4,g(11152,i))end p("Dungeons: "..d.." / "..s(5,g(11152,1)))p("WQs: "..s(9,g(11153,1)))p("HKs: "..s(9,g(11154,1)))
 ```
 
-====================
+===
 
-***Can Someone Explain How to Fill the Armor Stands in Class Halls?***
-```
+## Can Someone Explain How to Fill the Armor Stands in Class Halls?
 1) All pieces of the same type (cannot mix Healer/DPS/Tank versions of the same teir).
 2) Lowest item level version (10-mans, non-heroic, etc).
 3) You need to wait for the refund timer to expire, after it expires you might need to relog.
@@ -53,7 +52,8 @@ Tier 9 - 5 pieces (ilvl 232)
 Crusaders' Coliseum (Vendor)
 Tier 10 - 5 pieces (ilvl 251)
 Icecrown Citadel (Vendor)
-```
+
+===
 
 **Withered Army Training Scenario**<br/>
 <http://www.mmo-champion.com/threads/2064610-Withered-Army-Training?p=42226469&viewfull=1#post42226469>
@@ -62,12 +62,24 @@ Icecrown Citadel (Vendor)
 (New Google Doc) <https://docs.google.com/spreadsheets/d/1eWRWdgQX0_bn3fRqrBwQvGsCUh9LMWOSD74KBzvjuaM/edit#gid=935577117><br/>
 (Old Reddit post) <https://www.reddit.com/r/wow/comments/519b0t/what_orderhall_champions_to_deactivate_all/d7a7a1z/>
 
-__**Hidden Hunter Quest - Trueshot Lodge**__
+===
+
+## Hidden Hunter Quest - Trueshot Lodge
 1) Purchase 13 `Black Rose` from *Death Hunter Moorgoth*.
 2) Speak with *Dark Ranger Velonara*.
 3) Speak with *Death Hunter Moorgoth*.
 4) Quest pops from *Dark Ranger Velonara*.
 5) Adds new item to his vendor window.
 
-**__World Boss Rotation__**<br/>
-Nithogg >> Soultakers >> Humongris >> Shar'thos >> Flotsam >> Drugon >> Calamir >> Withered J'im >> Levantus >> Na'zak the Fiend >> Ana-Mouz
+## World Boss Rotation
+* Nithogg
+* Soultakers
+* Humongris
+* Shar'thos
+* Flotsam
+* Drugon
+* Calamir
+* Withered J'im
+* Levantus
+* Na'zak the Fiend
+* Ana-Mouz
