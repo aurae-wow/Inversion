@@ -22,7 +22,9 @@ And another script for good measure.
 /run local g,s,p,d=GetAchievementCriteriaInfo,select,print,0 for i=1,GetAchievementNumCriteria(11152) do d=d+s(4,g(11152,i))end p("Dungeons: "..d.." / "..s(5,g(11152,1)))p("WQs: "..s(9,g(11153,1)))p("HKs: "..s(9,g(11154,1)))
 ```
 
-## Can Someone Explain How to Fill the Armor Stands in Class Halls?
+---
+
+### Can Someone Explain How to Fill the Armor Stands in Class Halls?
 1) All pieces of the same type (cannot mix Healer/DPS/Tank versions of the same teir).
 2) Lowest item level version (10-mans, non-heroic, etc).
 3) You need to wait for the refund timer to expire, after it expires you might need to relog.
@@ -30,26 +32,26 @@ And another script for good measure.
 
 For everyone but DKs, DHs, and Monks - tier 1-10
 
-Tier 1 - 8 pieces
-Molten Core (waist and wrists come from trash mobs!)
-Tier 2 - 8 pieces
-Molten Core (legs), Black Wing Lair (head, shoulders, chest, legs, feet, waist, hands)
-Tier 2.5 - 5 pieces
-Temple of Ahn'Qiraj (AQ40) (quest rewards from dragons right after the first boss)
-Tier 4 - 5 pieces
-Karazhan (head, gloves), Gruul's Lair (shoulders, legs), Magtheridon's Lair (chest)
-Tier 5 - 5 pieces
-Tempest Keep (chest, shoulders), Serpentshrine Cavern(head, hands, legs)
-Tier 6 - 8 pieces*?
-Hyjal Summit (head, hands), Black Temple (legs, chest), Sunwell Plateau (wrist, waist, and feet)
-Tier 7 - 5 pieces (ilvl 200)
-Naxxramas 10-man (head, shoulders, chest, legs), Obsidian Sanctum 10-man (hands)
-Tier 8 - 5 pieces (ilvl 219)
-Ulduar 10-man
-Tier 9 - 5 pieces (ilvl 232)
-Crusaders' Coliseum (Vendor)
-Tier 10 - 5 pieces (ilvl 251)
-Icecrown Citadel (Vendor)
+* Tier 1 - 8 pieces
+  Molten Core (waist and wrists come from trash mobs!)
+* Tier 2 - 8 pieces
+  Molten Core (legs), Black Wing Lair (head, shoulders, chest, legs, feet, waist, hands)
+* Tier 2.5 - 5 pieces
+  Temple of Ahn'Qiraj (AQ40) (quest rewards from dragons right after the first boss)
+* Tier 4 - 5 pieces
+  Karazhan (head, gloves), Gruul's Lair (shoulders, legs), Magtheridon's Lair (chest)
+* Tier 5 - 5 pieces
+  Tempest Keep (chest, shoulders), Serpentshrine Cavern(head, hands, legs)
+* Tier 6 - 8 pieces*?
+  Hyjal Summit (head, hands), Black Temple (legs, chest), Sunwell Plateau (wrist, waist, and feet)
+* Tier 7 - 5 pieces (ilvl 200)
+  Naxxramas 10-man (head, shoulders, chest, legs), Obsidian Sanctum 10-man (hands)
+* Tier 8 - 5 pieces (ilvl 219)
+  Ulduar 10-man
+* Tier 9 - 5 pieces (ilvl 232)
+  Crusaders' Coliseum (Vendor)
+* Tier 10 - 5 pieces (ilvl 251)
+  Icecrown Citadel (Vendor)
 
 ---
 
@@ -62,14 +64,16 @@ Icecrown Citadel (Vendor)
 
 ---
 
-## Hidden Hunter Quest - Trueshot Lodge
+### Hidden Hunter Quest - Trueshot Lodge
 1) Purchase 13 `Black Rose` from *Death Hunter Moorgoth*.
 2) Speak with *Dark Ranger Velonara*.
 3) Speak with *Death Hunter Moorgoth*.
 4) Quest pops from *Dark Ranger Velonara*.
 5) Adds new item to his vendor window.
 
-## World Boss Rotation
+---
+
+### World Boss Rotation
 * Nithogg
 * Soultakers
 * Humongris
