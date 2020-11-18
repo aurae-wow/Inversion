@@ -9,7 +9,7 @@ Stormwind Vision Guide: <https://www.wowhead.com/guides/horrific-vision-of-storm
 Essence Drops<br/>
 <https://questionablyepic.com/essence-drop-locations/>
 
-Friendly Alpaca progress check
+Friendly Alpaca progress check<br/>
 `/script print(GetQuestObjectiveInfo(58881, 0, false))`
 
 Script to check if you have various mission table troops unlocked on a certain character:
