@@ -37,20 +37,18 @@ Macro for announcing to /1 your target, location, and target health percentage. 
 /run t="target" SendChatMessage(format ("%s: %.1f, %.1f; HP: %i%%",UnitName(t),px*100,py*100,(UnitHealth(t)/UnitHealthMax(t)*100)),  "CHANNEL", nil, 1);
 ```
 
-**Acquiring the Seasonal PvP Mounts**
-```
+**Acquiring the Seasonal PvP Mounts** <br/>
 The progress bar is filled by winning games while above 1400 rating. You need to fill the progress bar to 100% and progress is account wide. Only wins while at 1400 or above in that rated arena or bg group will count towards this mount. If you have a 1430 rating in 2v2 but 0 rating in 3v3, wins in 3v3 will not count until that rating is 1400 or better but wins in 2v2 will count.
 
 There is a macro you can use to determine the exact amount of games you need to win on 2v2, 3v3, or RBG for the reward.
 
 The mounts require 2400 points. People have observed 2v2 appear to give 0.33%, 3v3 give 1% and RBG's give 2%.
-This is mostly accurate as any wins while above 1400 will award the following:
-2v2 = 10 points (240 wins)
-3v3 = 30 points (80 wins)
-RBG = 60 points (40 wins)
+This is mostly accurate as any wins while above 1400 will award the following:<br/>
+2v2 = 10 points (240 wins)<br/>
+3v3 = 30 points (80 wins)<br/>
+RBG = 60 points (40 wins)<br/>
 
 After looking at some of the UI code, the percentage bar rounds up which explains why some people have reported 100% and did not receive the mount until they won another game. I was at 2390 out of 2400 and the bar reported at 100%.
-```
 
 **Alliance**:
 ```lua
