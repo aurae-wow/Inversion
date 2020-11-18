@@ -33,7 +33,7 @@ And another script for good measure.
 For everyone but DKs, DHs, and Monks - tier 1-10
 
 Tier 1 - 8 pieces  
-Molten Core (waist and wrists come from trash mobs!)  
+   Molten Core (waist and wrists come from trash mobs!)  
 Tier 2 - 8 pieces  
 Molten Core (legs), Black Wing Lair (head, shoulders, chest, legs, feet, waist, hands)  
 Tier 2.5 - 5 pieces  
