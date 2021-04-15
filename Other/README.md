@@ -3,6 +3,15 @@ This stuff doesn't belong to a specific expansion.
 
 ---
 
+This is only relevant to anyone who logs raids/dungeons/whatever.
+
+As of Patch 9.0.5 the client automatically splits logs with a date and timestamp. If you would like to disable this behavior, use the following:
+```lua
+/console combatLogUniqueFilename 0```
+This will default back to the WoWCombatLog.txt for you to manage yourself.
+
+---
+
 **Sun Darter Hatchling**: Guide to obtain the battle pet.<br/>
 <https://www.scribd.com/document/351437491/Sun-Darter-Hatchling>
 
