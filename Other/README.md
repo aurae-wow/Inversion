@@ -72,6 +72,7 @@ Apparently the above macro sometimes stops working for Alliance characters. The 
 /run a=UnitName('target');b=C_Map;c='player';d=b.GetBestMapForUnit(c);e=b.GetPlayerMapPosition(d,c);b.SetUserWaypoint(UiMapPoint.CreateFromCoordinates(d,e.x,e.y));SendChatMessage(a..' at '..b.GetUserWaypointHyperlink(),'CHANNEL',c,1);b.ClearUserWaypoint()
 ```
 Both marcos will look like this:
+
 <img src="rare-mappin.jpg">
 
 ---
