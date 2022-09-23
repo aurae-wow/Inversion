@@ -23,7 +23,34 @@ You can check your Adventure Campaign progress using the following script:
 Alternatively, you can use this weakaura by yours truly.
 https://wago.io/GUrBD8_8c
 
+Mission table experience for your followers.
+https://wago.io/2c5uE2huK
+
 ---
 
 A bunch of miscellaneous information can be found here:
 https://grueslayers.eu/
+
+---
+
+A spreadsheet for tracking the various fashion accessories that are a part of the Abomination Factory.
+https://docs.google.com/spreadsheets/d/1kCuOoMd_s_uubxFt0JT5Ys-CCt06PZW2tAtj7yAF714/edit#gid=0
+
+---
+
+A site for tracking anima purchases in the covenant halls.
+https://npreston.ca/
+
+---
+
+Class macros for the covenant combat and signature abilities.
+https://www.mmo-champion.com/content/10181-Covenant-Signature-and-Class-Abilities-Macros
+
+---
+
+A couple valuable Torghast guides.
+https://www.wowhead.com/guides/box-of-many-things-torghast-talent-system-shadowlands
+https://www.wowhead.com/guides/torments-and-blessings-tips-and-tricks-torghast-shadowlands
+
+---
+

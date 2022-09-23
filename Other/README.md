@@ -13,6 +13,15 @@ This will default back to the WoWCombatLog.txt for you to manage yourself.
 
 ---
 
+### Extra Action Button Macro
+Look, this is huge, especially when those buttons bug out often enough. You're going to want this.
+```
+#showtooltip
+/click ExtraActionButton1
+```
+
+---
+
 **Sun Darter Hatchling**: Guide to obtain the battle pet.<br/>
 <https://www.scribd.com/document/351437491/Sun-Darter-Hatchling>
 
@@ -58,6 +67,12 @@ Trinket 2 with `@cursor`
 ```Lua
 /run a=UnitName('target');b=C_Map;c='player';d=b.GetBestMapForUnit(c);e=b.GetPlayerMapPosition(d,c);b.SetUserWaypoint(UiMapPoint.CreateFromCoordinates(d,e.x,e.y));SendChatMessage(a..' at '..b.GetUserWaypointHyperlink(),'CHANNEL',_,1);b.ClearUserWaypoint()
 ```
+Apparently the above macro sometimes stops working for Alliance characters. The below macro should rememdy that.  The singular difference, in case you're curious, is a `c` where the `_` is after the `CHANNEL` variable.
+```Lua
+/run a=UnitName('target');b=C_Map;c='player';d=b.GetBestMapForUnit(c);e=b.GetPlayerMapPosition(d,c);b.SetUserWaypoint(UiMapPoint.CreateFromCoordinates(d,e.x,e.y));SendChatMessage(a..' at '..b.GetUserWaypointHyperlink(),'CHANNEL',c,1);b.ClearUserWaypoint()
+```
+Both marcos will look like this:
+<img src="rare-mappin.jpg">
 
 ---
 
@@ -82,3 +97,4 @@ After looking at some of the UI code, the percentage bar rounds up which explain
 ```lua
 /run local criteriaString, criteriaType, completed, quantity, reqQuantity, charName, flags, assetID, quantityString = GetAchievementCriteriaInfo(14966, 1); print('Progress:' ,quantity,' out of ',reqQuantity)
 ```
+*You can change the achievment ID to match the seasonal achievement in the above macros, just be aware of the faction difference when looking up achievements.*
