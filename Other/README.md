@@ -22,6 +22,19 @@ Look, this is huge, especially when those buttons bug out often enough. You're g
 
 ---
 
+### Nameplate Stacking/Overlapping
+This console command will adjust nameplates so they are either stacked on your screen, or overlapping as normal.
+
+```Lua
+/run C_CVar.SetCVar("nameplateMotion", 0)
+```
+0 -> overlapping
+1 -> stacking
+
+*If you experience framerate loss when a large number of nameplates are on the screen and use the stacking setting, try reverting to overlapping.  Stacking nameplates are wildly inefficient and known to tank performance.*
+
+---
+
 **Sun Darter Hatchling**: Guide to obtain the battle pet.<br/>
 <https://www.scribd.com/document/351437491/Sun-Darter-Hatchling>
 
