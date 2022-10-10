@@ -15,7 +15,7 @@ This will default back to the WoWCombatLog.txt for you to manage yourself.
 
 ### Extra Action Button Macro
 Look, this is huge, especially when those buttons bug out often enough. You're going to want this.
-```
+```Lua
 #showtooltip
 /click ExtraActionButton1
 ```
@@ -28,7 +28,7 @@ This console command will adjust nameplates so they are either stacked on your s
 ```Lua
 /run C_CVar.SetCVar("nameplateMotion", 0)
 ```
-0 -> overlapping
+0 -> overlapping <br>
 1 -> stacking
 
 *If you experience framerate loss when a large number of nameplates are on the screen and use the stacking setting, try reverting to overlapping.  Stacking nameplates are wildly inefficient and known to tank performance.*
@@ -51,19 +51,19 @@ This console command will adjust nameplates so they are either stacked on your s
 ### Miscellaneous macros using item slot numbers
 
 Main Hand weapon with `@mouseover`
-```
+```Lua
 #showtooltip
 /use [@mouseover,help,exists,nodead][@target,help,exists,nodead][]16
 ```
 
 Trinket 1 with `@mouseover`
-```
+```Lua
 #showtooltip
 /use [@mouseover,help,exists,nodead][@target,help,exists,nodead][]13
 ```
 
 Trinket 2 with `@cursor`
-```
+```Lua
 #showtooltip
 /use [@cursor]14
 ```
