@@ -112,3 +112,9 @@ After looking at some of the UI code, the percentage bar rounds up which explain
 /run local criteriaString, criteriaType, completed, quantity, reqQuantity, charName, flags, assetID, quantityString = GetAchievementCriteriaInfo(14966, 1); print('Progress:' ,quantity,' out of ',reqQuantity)
 ```
 *You can change the achievment ID to match the seasonal achievement in the above macros, just be aware of the faction difference when looking up achievements.*
+
+---
+
+A quick "addon maker", you just supply the Lua and it does the rest.
+<https://addon.bool.no/>
+

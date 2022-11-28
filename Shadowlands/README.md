@@ -1,10 +1,10 @@
 # Shadowlands Resources
 
 ### World Boss Rotation
-Oranomonos
-Nurgash
-Valinor
-Mortanis
+* Oranomonos
+* Nurgash
+* Valinor
+* Mortanis
 
 ---
 
@@ -54,3 +54,18 @@ https://www.wowhead.com/guides/torments-and-blessings-tips-and-tricks-torghast-s
 
 ---
 
+Stitched items (Necrolord transmog from Stitchyard) can be rewarded by the quests of these Constructs, per slot:
+Helm: Gas Bag
+Shoulders: Professor
+Chest: Marz
+Belt: Roseboil
+Legs: Sabrina
+Feet: Flytrap
+Bracers: Toothpick
+Hands: Guillotine
+Cloak: Chordy
+
+---
+
+Here's a nice little checklist with all the items you'll need for the `[Wardrove Makeover]` achievement that's part of the Necrolord Abomination Factory's `[Things To Do When You're Dead]` meta.
+<https://docs.google.com/spreadsheets/d/1kCuOoMd_s_uubxFt0JT5Ys-CCt06PZW2tAtj7yAF714/edit#gid=0>
